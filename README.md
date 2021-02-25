@@ -2,20 +2,20 @@
 
 - Official SelfBot Script 2020.
 - Work 100% & Safe From Banned.
-- Created By: Hansen Gianto & UNYPASS
+- Created By: Kheinzu
 - Special Thanks: HW & BE-TEAM
 
 ## INSTALL COMMAND FOR TERMUX
 
-```sh
-Untuk Command/Perintah Cara Menjalankan Bot Silahkan Cek Video Youtube Dibawah
+```pkg update
+pkg upgrade
+pkg install python
+pkg install git
+git clone https://github.com/FgmCorp/fgmselfbot
+cd sbfgm
+python -m pip install -r pymodule.txt
+python sbfgm.py
 ```
-
-## Video Tutorial Full
-[CLICK HERE](https://youtube.com/hansengianto)
-
-## FGM OPENCHAT
-[CLICK HERE](https://hansengianto.gq/square.html)
 
 
 Ⓒ FGM Bot 2020
